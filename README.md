@@ -59,4 +59,4 @@
 - C#
 - Windows Form
 
-Checkout the demo on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7414314113688043520/)
+Checkout the demo on [LinkedIn](https://www.linkedin.com/posts/aurelien-ebeng_one-of-the-projects-i-worked-on-was-the-grade-activity-7414706809308860416-b0nD?utm_source=share&utm_medium=member_desktop&rcm=ACoAADozW_MBcloz7HwSCOFgmv6v6Oq8u5oY1Xk)
